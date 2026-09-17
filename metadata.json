@@ -1,0 +1,7 @@
+{
+  "name": "The Catalog Store",
+  "description": "Conversion-focused modern furniture e-commerce store with live browsing, responsive cart drawer, and WhatsApp order checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
